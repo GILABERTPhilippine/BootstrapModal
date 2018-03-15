@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.table.table-striped
+{
+    width: 60%;
+    margin-left : 20%;
+    margin-top:5%;
+}
+
+#close {
+    background: rgb(119, 114, 114);
+    color:white;
+}
+
+#save {
+    background: rgb(0, 132, 255);
+    color:white;
+}
+
+.modal-body {
+    width: 100%;
+}
